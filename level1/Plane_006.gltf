@@ -1,0 +1,29 @@
+{
+	"asset":{
+		"generator":"Khronos glTF Blender I/O v5.0.21",
+		"version":"2.0"
+	},
+	"scene":0,
+	"scenes":[
+		{
+			"extras":{
+				"uuid":"0693f24f-8025-48fd-ade1-da7b6e6d8916",
+				"assets used":{}
+			},
+			"name":"Scene",
+			"nodes":[
+				0
+			]
+		}
+	],
+	"nodes":[
+		{
+			"name":"Plane.006",
+			"translation":[
+				-9.37211799621582,
+				4.826138019561768,
+				-4.031267166137695
+			]
+		}
+	]
+}

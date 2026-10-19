@@ -1,0 +1,1498 @@
+{
+    "name": "level1",
+    "light": [
+        {
+            "position": [
+                0,
+                50,
+                50
+            ],
+            "color": [
+                1,
+                1,
+                1
+            ]
+        },
+        { "ambient_color": [ 0.33, 0.33, 0.33 ] },
+        { "shadow_tint": [ 0.02, 0.02, 0.02 ] }
+    ],
+    "model": [
+        {
+            "name": "Cube_001",
+            "gltf": "level1/Cube_001.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_002",
+            "gltf": "level1/Cube_002.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_003",
+            "gltf": "level1/Cube_003.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_004",
+            "gltf": "level1/Cube_004.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_005",
+            "gltf": "level1/Cube_005.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_006",
+            "gltf": "level1/Cube_006.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_007",
+            "gltf": "level1/Cube_007.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_008",
+            "gltf": "level1/Cube_008.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_009",
+            "gltf": "level1/Cube_009.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_010",
+            "gltf": "level1/Cube_010.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_011",
+            "gltf": "level1/Cube_011.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_012",
+            "gltf": "level1/Cube_012.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_013",
+            "gltf": "level1/Cube_013.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_014",
+            "gltf": "level1/Cube_014.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_015",
+            "gltf": "level1/Cube_015.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_016",
+            "gltf": "level1/Cube_016.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_017",
+            "gltf": "level1/Cube_017.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_018",
+            "gltf": "level1/Cube_018.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_019",
+            "gltf": "level1/Cube_019.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_020",
+            "gltf": "level1/Cube_020.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_021",
+            "gltf": "level1/Cube_021.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_022",
+            "gltf": "level1/Cube_022.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_023",
+            "gltf": "level1/Cube_023.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_024",
+            "gltf": "level1/Cube_024.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_025",
+            "gltf": "level1/Cube_025.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_026",
+            "gltf": "level1/Cube_026.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_027",
+            "gltf": "level1/Cube_027.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_028",
+            "gltf": "level1/Cube_028.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_029",
+            "gltf": "level1/Cube_029.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_030",
+            "gltf": "level1/Cube_030.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_031",
+            "gltf": "level1/Cube_031.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_032",
+            "gltf": "level1/Cube_032.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_033",
+            "gltf": "level1/Cube_033.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_034",
+            "gltf": "level1/Cube_034.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_035",
+            "gltf": "level1/Cube_035.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_036",
+            "gltf": "level1/Cube_036.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_037",
+            "gltf": "level1/Cube_037.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_038",
+            "gltf": "level1/Cube_038.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_039",
+            "gltf": "level1/Cube_039.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_040",
+            "gltf": "level1/Cube_040.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_041",
+            "gltf": "level1/Cube_041.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_042",
+            "gltf": "level1/Cube_042.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_043",
+            "gltf": "level1/Cube_043.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_044",
+            "gltf": "level1/Cube_044.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_045",
+            "gltf": "level1/Cube_045.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_046",
+            "gltf": "level1/Cube_046.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_047",
+            "gltf": "level1/Cube_047.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_048",
+            "gltf": "level1/Cube_048.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_049",
+            "gltf": "level1/Cube_049.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_050",
+            "gltf": "level1/Cube_050.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_051",
+            "gltf": "level1/Cube_051.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_052",
+            "gltf": "level1/Cube_052.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_053",
+            "gltf": "level1/Cube_053.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_054",
+            "gltf": "level1/Cube_054.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_055",
+            "gltf": "level1/Cube_055.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_056",
+            "gltf": "level1/Cube_056.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_057",
+            "gltf": "level1/Cube_057.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_058",
+            "gltf": "level1/Cube_058.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_059",
+            "gltf": "level1/Cube_059.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_060",
+            "gltf": "level1/Cube_060.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_061",
+            "gltf": "level1/Cube_061.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_062",
+            "gltf": "level1/Cube_062.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_063",
+            "gltf": "level1/Cube_063.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_064",
+            "gltf": "level1/Cube_064.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_065",
+            "gltf": "level1/Cube_065.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_066",
+            "gltf": "level1/Cube_066.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_067",
+            "gltf": "level1/Cube_067.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_068",
+            "gltf": "level1/Cube_068.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_069",
+            "gltf": "level1/Cube_069.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_070",
+            "gltf": "level1/Cube_070.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_071",
+            "gltf": "level1/Cube_071.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_072",
+            "gltf": "level1/Cube_072.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_073",
+            "gltf": "level1/Cube_073.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_074",
+            "gltf": "level1/Cube_074.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_075",
+            "gltf": "level1/Cube_075.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_078",
+            "gltf": "level1/Cube_078.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_079",
+            "gltf": "level1/Cube_079.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_080",
+            "gltf": "level1/Cube_080.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_081",
+            "gltf": "level1/Cube_081.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_082",
+            "gltf": "level1/Cube_082.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_083",
+            "gltf": "level1/Cube_083.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_084",
+            "gltf": "level1/Cube_084.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_085",
+            "gltf": "level1/Cube_085.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_086",
+            "gltf": "level1/Cube_086.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_087",
+            "gltf": "level1/Cube_087.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_088",
+            "gltf": "level1/Cube_088.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_089",
+            "gltf": "level1/Cube_089.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_091",
+            "gltf": "level1/Cube_091.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_092",
+            "gltf": "level1/Cube_092.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_096",
+            "gltf": "level1/Cube_096.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_097",
+            "gltf": "level1/Cube_097.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_098",
+            "gltf": "level1/Cube_098.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_099",
+            "gltf": "level1/Cube_099.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_100",
+            "gltf": "level1/Cube_100.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_101",
+            "gltf": "level1/Cube_101.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_102",
+            "gltf": "level1/Cube_102.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_103",
+            "gltf": "level1/Cube_103.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_104",
+            "gltf": "level1/Cube_104.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_105",
+            "gltf": "level1/Cube_105.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_106",
+            "gltf": "level1/Cube_106.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_107",
+            "gltf": "level1/Cube_107.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_108",
+            "gltf": "level1/Cube_108.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_109",
+            "gltf": "level1/Cube_109.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_110",
+            "gltf": "level1/Cube_110.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_111",
+            "gltf": "level1/Cube_111.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_112",
+            "gltf": "level1/Cube_112.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_115",
+            "gltf": "level1/Cube_115.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_116",
+            "gltf": "level1/Cube_116.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_117",
+            "gltf": "level1/Cube_117.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_118",
+            "gltf": "level1/Cube_118.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_119",
+            "gltf": "level1/Cube_119.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube_124",
+            "gltf": "level1/Cube_124.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Cube",
+            "gltf": "level1/Cube.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Gear_001",
+            "gltf": "level1/Gear_001.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "I-beam_001",
+            "gltf": "level1/I-beam_001.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "I-beam_002",
+            "gltf": "level1/I-beam_002.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "I-beam_003",
+            "gltf": "level1/I-beam_003.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "I-beam_004",
+            "gltf": "level1/I-beam_004.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "I-beam_005",
+            "gltf": "level1/I-beam_005.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "I-beam_006",
+            "gltf": "level1/I-beam_006.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "I-beam_007",
+            "gltf": "level1/I-beam_007.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "I-beam_008",
+            "gltf": "level1/I-beam_008.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "I-beam_009",
+            "gltf": "level1/I-beam_009.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "I-beam_010",
+            "gltf": "level1/I-beam_010.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "I-beam_011",
+            "gltf": "level1/I-beam_011.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "I-beam_012",
+            "gltf": "level1/I-beam_012.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "I-beam_015",
+            "gltf": "level1/I-beam_015.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "I-beam_016",
+            "gltf": "level1/I-beam_016.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "I-beam",
+            "gltf": "level1/I-beam.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Plane_005",
+            "gltf": "level1/Plane_005.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Plane_006",
+            "gltf": "level1/Plane_006.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Plane_007",
+            "gltf": "level1/Plane_007.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Plane_008",
+            "gltf": "level1/Plane_008.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Plane_009",
+            "gltf": "level1/Plane_009.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "ramp_002",
+            "gltf": "level1/ramp_002.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "ramp",
+            "gltf": "level1/ramp.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "rot_complicated",
+            "gltf": "level1/rot_complicated.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "rot_end",
+            "gltf": "level1/rot_end.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "rot_fence_boogie",
+            "gltf": "level1/rot_fence_boogie.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "rot_for_playing",
+            "gltf": "level1/rot_for_playing.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "rot_happy_ldjam_60",
+            "gltf": "level1/rot_happy_ldjam_60.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "rot_hidden_switch",
+            "gltf": "level1/rot_hidden_switch.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "rot_long_bridge1",
+            "gltf": "level1/rot_long_bridge1.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "rot_long_bridge2",
+            "gltf": "level1/rot_long_bridge2.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "rot_long_bridge3",
+            "gltf": "level1/rot_long_bridge3.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "rot_thank_you",
+            "gltf": "level1/rot_thank_you.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "rot_wall_boogie",
+            "gltf": "level1/rot_wall_boogie.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "rot1_bridge",
+            "gltf": "level1/rot1_bridge.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "rot2_bridge",
+            "gltf": "level1/rot2_bridge.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "rot3_fence",
+            "gltf": "level1/rot3_fence.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "rot4_bridge",
+            "gltf": "level1/rot4_bridge.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "rot5_bridge",
+            "gltf": "level1/rot5_bridge.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "rot6_fence",
+            "gltf": "level1/rot6_fence.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "rot7_wow",
+            "gltf": "level1/rot7_wow.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "rot8_knockout",
+            "gltf": "level1/rot8_knockout.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "start",
+            "gltf": "level1/start.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "switch_end",
+            "gltf": "level1/switch_end.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "switch_fence_boogie",
+            "gltf": "level1/switch_fence_boogie.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "switch_for_playing",
+            "gltf": "level1/switch_for_playing.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "switch_happy_ldjam_60",
+            "gltf": "level1/switch_happy_ldjam_60.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "switch_rot_complicated",
+            "gltf": "level1/switch_rot_complicated.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "switch_rot_hidden_switch",
+            "gltf": "level1/switch_rot_hidden_switch.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "switch_rot1",
+            "gltf": "level1/switch_rot1.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "switch_rot2",
+            "gltf": "level1/switch_rot2.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "switch_rot3",
+            "gltf": "level1/switch_rot3.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "switch_rot4",
+            "gltf": "level1/switch_rot4.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "switch_rot5",
+            "gltf": "level1/switch_rot5.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "switch_rot6",
+            "gltf": "level1/switch_rot6.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "switch_rot7_wow",
+            "gltf": "level1/switch_rot7_wow.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "switch_rot8_knockout",
+            "gltf": "level1/switch_rot8_knockout.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "switch_thank_you",
+            "gltf": "level1/switch_thank_you.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "switch_wall_boogie",
+            "gltf": "level1/switch_wall_boogie.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "switch1_long_bridge",
+            "gltf": "level1/switch1_long_bridge.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "switch2_long_bridge",
+            "gltf": "level1/switch2_long_bridge.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "switch2_rot8_knockout",
+            "gltf": "level1/switch2_rot8_knockout.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "switch3_long_bridge",
+            "gltf": "level1/switch3_long_bridge.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Text_001",
+            "gltf": "level1/Text_001.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Text_002",
+            "gltf": "level1/Text_002.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "Text",
+            "gltf": "level1/Text.gltf",
+            "physics": {
+                "type": "geom",
+                "geom": "trimesh"
+            }
+        },
+        {
+            "name": "clappy",
+            "gltf": "char_clappy0.6.gltf",
+            "armature": {
+                "head": "head",
+                "hand_left": "hand.L",
+                "hand_right": "hand.R",
+                "tail": "wire.1"
+            },
+            "look": {
+                "yaw_max": false,
+                "pitch_max": 0.4
+            },
+            "limbs": {
+                "skip": [ "wire." ],
+                "box": [ "torso" ]
+            },
+            "terrain_clamp": true,
+            "can_jump": true,
+            "turns_with_ground": true,
+            "tilts_with_ground": true,
+            "bobs_head": true,
+            "can_levitate": false,
+            "physics": {
+                "mass": 2,
+                "geom": "capsule",
+                "type": "body",
+                "yoffset": 0.79,
+                "radius": 0.4,
+                "length": 0.5
+            },
+            "speed": 5,
+            "can_dash": true,
+            "character": [
+                {
+                    "position": [
+                        0,
+                        10,
+                        -1.82,
+                        1,
+                        0
+                    ]
+                }
+            ]
+        }
+    ]
+}
